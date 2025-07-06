@@ -7,7 +7,8 @@ Built as part of **Day 8** of my #100DaysOfReact challenge.
 
 ## 📸 Screenshot
 
-![Password Toggle Screenshot](./screenshot.png) 
+![Password Toggle Screenshot](./Screenshot%20(397).png) 
+![Password Toggle Screenshot](./Screenshot%20(398).png) 
 
 ---
 
