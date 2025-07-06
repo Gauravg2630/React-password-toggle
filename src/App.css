@@ -1,0 +1,35 @@
+.app {
+  text-align: center;
+  padding: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #f8cdda, #1d2b64);
+  color: white;
+  min-height: 100vh;
+}
+
+input[type="password"],
+input[type="text"] {
+  padding: 10px;
+  font-size: 1rem;
+  margin: 10px 0;
+  width: 300px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+}
+
+.checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: #eee;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #ccc;
+}
